@@ -6,7 +6,16 @@ function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <WeatherSearch />
-      <h2>Code by Carol De Nardi</h2>
+      <small>
+        Code by
+        <a href="https://www.instagram.com/carolnardi/" target="_blank">
+          {" "}
+          Carol De Nardi
+        </a>{" "}
+        <a href="https://github.com/Carolnardi/weather-react04" target="_blank">
+          GitHub
+        </a>
+      </small>
     </div>
   );
 }
