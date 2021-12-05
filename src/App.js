@@ -8,11 +8,19 @@ function App() {
       <WeatherSearch />
       <small>
         Code by
-        <a href="https://www.instagram.com/carolnardi/" target="_blank">
+        <a
+          href="https://www.instagram.com/carolnardi/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           {" "}
           Carol De Nardi
         </a>{" "}
-        <a href="https://github.com/Carolnardi/weather-react04" target="_blank">
+        <a
+          href="https://github.com/Carolnardi/weather-react04"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           GitHub
         </a>
       </small>
